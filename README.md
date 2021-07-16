@@ -1,3 +1,3 @@
 # Quote-Machine-React-Redux
-//built with create-react-app
+built with create-react-app
 https://codepen.io/kielam30/pen/MWmKNqR
